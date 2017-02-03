@@ -1,0 +1,15 @@
+C:\Users\Oswaldo Castro\Desktop\Arquivo\LOL\Macros\KappaUtility\KappaUtility\bin\Release\KappaUtility.exe.config
+C:\Users\Oswaldo Castro\Desktop\Arquivo\LOL\Macros\KappaUtility\KappaUtility\bin\Release\KappaUtility.exe
+C:\Users\Oswaldo Castro\Desktop\Arquivo\LOL\Macros\KappaUtility\KappaUtility\bin\Release\KappaUtility.pdb
+C:\Users\Oswaldo Castro\Desktop\Arquivo\LOL\Macros\KappaUtility\KappaUtility\bin\Release\EloBuddy.dll
+C:\Users\Oswaldo Castro\Desktop\Arquivo\LOL\Macros\KappaUtility\KappaUtility\bin\Release\EloBuddy.SDK.dll
+C:\Users\Oswaldo Castro\Desktop\Arquivo\LOL\Macros\KappaUtility\KappaUtility\bin\Release\Newtonsoft.Json.dll
+C:\Users\Oswaldo Castro\Desktop\Arquivo\LOL\Macros\KappaUtility\KappaUtility\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Oswaldo Castro\Desktop\Arquivo\LOL\Macros\KappaUtility\KappaUtility\bin\Release\SharpDX.dll
+C:\Users\Oswaldo Castro\Desktop\Arquivo\LOL\Macros\KappaUtility\KappaUtility\bin\Release\SharpDX.XInput.dll
+C:\Users\Oswaldo Castro\Desktop\Arquivo\LOL\Macros\KappaUtility\KappaUtility\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\Oswaldo Castro\Desktop\Arquivo\LOL\Macros\KappaUtility\KappaUtility\obj\Release\KappaUtility.csprojResolveAssemblyReference.cache
+C:\Users\Oswaldo Castro\Desktop\Arquivo\LOL\Macros\KappaUtility\KappaUtility\obj\Release\KappaUtility.Properties.Resources.resources
+C:\Users\Oswaldo Castro\Desktop\Arquivo\LOL\Macros\KappaUtility\KappaUtility\obj\Release\KappaUtility.csproj.GenerateResource.Cache
+C:\Users\Oswaldo Castro\Desktop\Arquivo\LOL\Macros\KappaUtility\KappaUtility\obj\Release\KappaUtility.exe
+C:\Users\Oswaldo Castro\Desktop\Arquivo\LOL\Macros\KappaUtility\KappaUtility\obj\Release\KappaUtility.pdb

@@ -1,0 +1,4 @@
+C:\Users\Oswaldo Castro\Desktop\Arquivo\LOL\Macros\KappaUtility\KappaUtility\bin\Debug\KappaUtility.exe.config
+C:\Users\Oswaldo Castro\Desktop\Arquivo\LOL\Macros\KappaUtility\KappaUtility\obj\Debug\KappaUtility.csprojResolveAssemblyReference.cache
+C:\Users\Oswaldo Castro\Desktop\Arquivo\LOL\Macros\KappaUtility\KappaUtility\obj\Debug\KappaUtility.Properties.Resources.resources
+C:\Users\Oswaldo Castro\Desktop\Arquivo\LOL\Macros\KappaUtility\KappaUtility\obj\Debug\KappaUtility.csproj.GenerateResource.Cache
